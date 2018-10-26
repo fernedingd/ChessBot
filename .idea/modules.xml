@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ChessReferee_DavidFerneding/ChessReferee_DavidFerneding.iml" filepath="$PROJECT_DIR$/../ChessReferee_DavidFerneding/ChessReferee_DavidFerneding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntelligentBot.iml" filepath="$PROJECT_DIR$/IntelligentBot.iml" />
+    </modules>
+  </component>
+</project>
